@@ -1,5 +1,5 @@
 [project]
-name = "nbagravity"
+name = "nbatracking"
 version = "1.0"
 
 [tool.setuptools]
