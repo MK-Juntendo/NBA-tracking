@@ -3,6 +3,6 @@ workspace-local
 NBA-Player-Movements
 build
 src/nbatracking.egg-info
-data-games
+
 
 .DS_Store
