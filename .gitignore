@@ -3,5 +3,6 @@ workspace-local
 NBA-Player-Movements
 build
 src/nbagravity.egg-info
+data-games
 
 .DS_Store
